@@ -1,0 +1,12 @@
+Clonar de GITHUB:
+  git clone git@github.com:jonirubio/test.git
+Nos dice el estado:
+  git status
+Actualizamos cambios:
+  git pull
+Añadimos cambios locales:
+  git add README.md 
+Commiteamos:
+  git commit -m "Prueba"
+Subimos a la rama:
+  git push
