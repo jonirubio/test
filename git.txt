@@ -6,6 +6,7 @@ Actualizamos cambios:
 > git pull
 Añadimos cambios locales:
 > git add README.md 
+> git add -A
 Commiteamos:
 > git commit -m "Prueba"
 Subimos a la rama:
